@@ -6,7 +6,7 @@ participants:
 - Thomas Cokelaer thomas.cokelaer at pasteur.fr
 - Blaise Li blaise.li at pasteur.fr blaiseli
 - Christophe Demay christophe.demay at chru-lille.fr chdem
-- Céline Elie celine.elie at bioaster.org elienilec
+- Céline Elie celine.elie at bioaster.org eilenilec
 - Christophe Russo christophe.russo at univ-lille2.fr
 - Nicolas Maillet nicomaillet
 - Thibault thibault.bayris at outlook.fr tdayris
